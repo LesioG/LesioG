@@ -1,9 +1,7 @@
 Hi, and welcome !
 - My name is Leszek Grechowicz and currently living in READING in the UK. 
-- I am interested in Computer Science since childhood even grauted from University and have Degree in Software Engineering.
-- I am currently learning Python and aim to become a junior Python developer
-
-
+- I am interested in Computer Science since childhood even :) grauted from University and have Degree in Software Engineering.
+- Currently learning Python and aim to become a junior Python developer in near future.
 
 - 📫 My email address leszek_grechowicz@o2.pl
 
