@@ -1,6 +1,6 @@
 Hi, and welcome !
 - My name is Leszek Grechowicz and currently living in READING in the UK. 
-- I am interested in Computer Science since childhood ... even graduated from University 👆️ with Degree in Software Engineering.
+- I am interested in Computer Science since childhood ... even graduated from University 👆️ with degree in Software Engineering.
 - Currently learning Python and aim to become a junior Python developer in near future.
 - Fell in love with Programming in December 2020, passionate about Climbing, Hiking, Mountain biking not to mention about Reading books !
 
