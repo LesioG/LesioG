@@ -5,10 +5,13 @@
 - Fell in love with programming in December 2020, passionate about climbing, hiking, mountain biking not to mention about reading books !
 
 Skill:
-  - `Python` 
-  - `SQL`
+  - `Python`
+    - `Django`
+    - `Flask` 
+  - `MySQL`, `PostgreSQL`, `SQLite`
   - `CSS`
   - `HTML`
+  - `JS`
 
 
 📫 My email address leszek_grechowicz@o2.pl
